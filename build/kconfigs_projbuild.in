@@ -1,0 +1,8 @@
+source "E:/Developtools/LeXin/espressif/v5.2.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "E:/Developtools/LeXin/espressif/v5.2.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "E:/Developtools/LeXin/espressif/v5.2.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "E:/Developtools/LeXin/espressif/v5.2.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "E:/Developtools/LeXin/espressif/v5.2.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "E:/Developtools/LeXin/master_my_project/smart_panel_exchange/main/Kconfig.projbuild"
+source "E:/Developtools/LeXin/master_my_project/smart_panel_exchange/managed_components/espressif__esp-sr/Kconfig.projbuild"
+source "E:/Developtools/LeXin/espressif/v5.2.1/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"

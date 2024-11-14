@@ -1,0 +1,23 @@
+CMake Error:
+  Running
+
+   'E:/Developtools/LeXin/espressif/tools/ninja/1.11.1/ninja.exe' '-C' 'E:/Developtools/LeXin/master_my_project/smart_panel_exchange/build' '-t' 'recompact'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Error:
+  Running
+
+   'E:/Developtools/LeXin/espressif/tools/ninja/1.11.1/ninja.exe' '-C' 'E:/Developtools/LeXin/master_my_project/smart_panel_exchange/build' '-t' 'restat' 'build.ninja'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
